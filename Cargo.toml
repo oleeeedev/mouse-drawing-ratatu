@@ -1,0 +1,11 @@
+[package]
+name = "mouse-drawing-ratatu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+color-eyre = "0.6"
+crossterm = "0.25"
+line_drawing = "1.0.0"
+rand = "0.8.5"
+ratatui = "0.29.0"
