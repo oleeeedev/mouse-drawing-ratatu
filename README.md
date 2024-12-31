@@ -22,6 +22,6 @@ A simple command-line application that demonstrates how to handle mouse events a
 To get started with this project, clone the repository and build it locally.
 
 ```bash
-git clone https://github.com/yourusername/mouse-drawing.git
+git clone https://github.com/oleeeedev/mouse-drawing-ratatu.git
 cd mouse-drawing
 cargo build --release
